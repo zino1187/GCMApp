@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
      * Substitute you own sender ID here. This is the project number you got
      * from the API Console, as described in "Getting Started."
      */
-    String SENDER_ID = "1008036373182";
+    String SENDER_ID = "";
 
     /**
      * Tag used on log messages.
